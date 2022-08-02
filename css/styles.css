@@ -1,0 +1,218 @@
+body {
+    padding-top: 50px;
+    background-color: #F6F8F9;
+}
+/*header*/
+.header {
+	height: 50px;
+	width: 100%;
+	background-color: #F6F8F9;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 50;
+}
+.header-div {
+	
+	margin-bottom: 18px;
+}
+.logo {
+	font-size: 13px;
+    text-transform: uppercase;
+    color: #FA6980;
+    margin-left: 20px;
+    margin-right: 92px;
+    vertical-align: middle;
+    font-family: 'Montserrat', sans-serif;
+}
+.navigation {
+	vertical-align: middle;
+	display: inline-block;
+}
+.nav-li-home {
+	font-size: 11px;
+	font-weight: bold;
+	color: #343638;
+	display: inline-block;
+	margin-right: 27px;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+
+}
+.nav-li {
+	font-size: 11px;
+	color: #343638;
+	display: inline-block;
+	text-transform: uppercase;
+	margin-right: 22px;
+	font-family: 'Montserrat', sans-serif;
+
+}
+.header-img {
+	margin-left: 40px;
+	width: 30px;
+	vertical-align: middle;
+}
+/*first section*/
+.section-1st {
+	width: 1160px;
+	margin:25px auto 58px auto ;
+}
+.article-h2 {
+	margin-top: 25px;
+	margin-bottom: 40px;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+}
+.first-sec-first-div {
+	width: 360px;
+	display: inline-block;
+	position: relative;
+	margin-right: 40px;
+	background-color: white;
+}
+.first-sec-text-img {
+	font-size: 16px;
+	color: white;
+    position: absolute;
+    top: 28px;
+    left: 36px;
+    font-family: 'Montserrat', sans-serif;
+}
+.img-description {
+	padding-top: 66px;
+}
+.img-description-p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 13px;
+    line-height: 22px;
+    color: #A6ADB4;
+    width: 280px;
+    margin: 0px auto 10px auto;
+}
+.time {
+	width: 69px;
+	height: 16px;
+	color: #CBD0D3;
+	display: inline-block;
+	font-size: 13px;
+	margin-left: 40px;
+    margin-bottom: 40px;
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+}
+.clock {
+	vertical-align: middle;
+	margin-right: 10px;
+}
+.time-text {
+	vertical-align: middle;
+	display: inline-block;
+}
+.first-sec-second-div {
+	display: inline-block;
+    width: 360px;
+    margin-right: 40px;
+    position: relative;
+    background-color: white;
+}
+.first-sec-third-div {
+	display: inline-block;
+    width: 352px;
+    position: relative;
+    background-color: white;
+}
+/*second section*/
+.section-2nd {
+	width: 1160px;
+    margin: 58px auto 37px auto;
+}
+.second-sec-first-div {
+ display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+}
+.second-sec-first-div1 {
+	position: relative;
+    margin-bottom: 40px;
+}
+.second-sec-text-img {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 16px;
+}
+.second-sec-second-div {
+	display: inline-block;
+    vertical-align: top;
+}
+.elephant {
+	margin-bottom: 102px;
+}
+.footer {
+	width: 1440px;
+	height: 200px;
+	background-color: #A6ADB4;
+	padding-top: 56px;
+}
+.footer-div {
+	width: 1160px;
+    margin: 0 auto 0;
+}
+.footer-logo {
+	font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    vertical-align: top;
+    margin-right: 50.1px;
+}
+.nav-footer {
+	vertical-align: top;
+	display: inline-block;
+}
+.nav-1st {
+	margin-right: 70.6px;
+}
+.nav-2nd {
+	margin-right: 86.3px;
+}
+.nav-3rd {
+	margin-right: 104.9px;
+}
+.footer-nav-item {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    color: #CBD0D3;
+    margin-bottom: 8px;
+    line-height: 15px;
+}
+.footer-p {
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 140.2px;
+    font-size: 11px;
+    color: #CBD0D3;
+}
+.icons-footer {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 40.8px;
+	margin-left: 165.2;
+}
+.icons {
+	display: inline-block;
+	vertical-align: top;
+	width: 160px;
+	height: 16px;
+}
+.icon {
+	margin-right: 26px;
+}
